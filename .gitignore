@@ -1,0 +1,17 @@
+# STS/Eclipse
+.project
+.classpath
+.settings/
+
+# 컴파일 결과
+/bin/
+out/
+*.class
+
+# 기타 IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
